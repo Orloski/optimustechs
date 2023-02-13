@@ -1,0 +1,66 @@
+.metricas-container{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1em;
+    margin: 0 6em 0 7em;
+    align-self: center;
+    column-gap: 4em;
+}
+
+.titulo_numero{
+    font-size: 60px;
+    color: var(--vermelho);
+    font-weight: 700;
+}
+
+.texto__primario{
+    margin: 1em 0;
+    font-size: 18px;
+    color: var(--azul-escuro);
+    font-weight: 500;
+}
+
+.texto__secundario{
+    color: var(--cinza-claro);
+}
+
+.container__colaboradores{
+    padding: 0 5rem;
+}
+
+.vagas{
+    display: flex;
+    justify-content: center;
+}
+
+.vagas__abertas{
+    margin-top: 10rem;
+    border: solid 1px;
+    border-radius: 16px;
+    border-style: none;
+    padding: 0.5rem;
+    color: var(--vermelho);
+    background-color: var(--borda);
+    align-items: center;
+}
+
+.container__talentos{
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+}
+
+.procura__talento{
+    font-size: 36px;
+    color: var(--azul-escuro);
+    font-weight: 600;
+}
+
+.container__equipe{
+    font-size: 20px;
+    color: var(--cinza-claro);
+}
+
+.imagem__equipe{
+    width: 100%;
+}

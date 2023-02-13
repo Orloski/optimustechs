@@ -1,0 +1,36 @@
+.footer__principal{
+    background-color: var(--cor-footer);
+    text-align: center;
+    padding: 4rem;
+}
+
+.oportunidades{
+    color: var(--azul-escuro);
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.footer__texto{
+    color: var(--cinza-claro);
+    font-size: 20px;
+    margin: 1.5rem 0 2.5rem 0;
+}
+
+.footer__vagas{
+    background: #FFFFFF;
+    border: 1px solid #D0D5DD;
+    border-radius: 8px;
+    padding: 12px 14px 12px 16px;
+    width: 30%;
+}
+
+.container__button{
+    background-color: var(--vermelho);
+    margin-left: 1rem;
+    color: #FFFFFF;
+}
+
+.coopiright{
+    margin: 2rem 0;
+    color: var(--cinza-claro);
+}

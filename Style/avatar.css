@@ -1,0 +1,30 @@
+.avatar__principal{
+    background-color: var(--cor-de-fundo);
+    border-radius: 16px;
+    padding: 4rem;
+    margin: 0 2.5rem;
+    text-align: center;
+}
+
+.colaborador{
+    font-weight: 600;
+    color: var(--vermelho);
+    font-size: 14px;
+}
+
+.avatar__texto{
+    font-size: 36px;
+    font-weight: 500;
+    padding: 5rem;
+}
+
+.nome__avatar{
+    color: var(--azul-escuro);
+    font-weight: 500;
+    margin: 1rem 0;
+}
+
+.cargo__avatar{
+    color: var(--cinza-claro);
+    font-size: 14px;
+}

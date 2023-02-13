@@ -1,0 +1,33 @@
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 1em;
+}
+
+.navbar{
+  margin-right: 20em;
+}
+
+.link{
+  text-decoration: none;
+  color: var(--cinza-medio);
+  margin: 0.5em;
+}
+
+button {
+  padding: 0.8rem 1rem;
+  cursor: pointer;
+  border: none;
+  border-radius: 0.5rem;
+  font-weight: 500;
+  background: none;
+  color: var(--cinza-medio);
+  font-size: 0.9rem;
+}
+
+  #signUp {
+  background-color: #8E2424;
+  color: #FFF;
+}
+  

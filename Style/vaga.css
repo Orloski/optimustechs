@@ -1,0 +1,24 @@
+.vaga{
+    margin: 5% 0 5% 20%;
+}
+
+.titulo{
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--azul-escuro);
+    justify-content: center;
+}
+
+.titulo-vaga{
+    font-size: 18px;
+    font-weight: 500;
+    margin: 2rem;
+}
+
+.informacoes{
+    display: flex;
+    font-weight: 500;
+    margin: 2rem;
+    column-gap: 2rem;
+    color: var(--cinza-claro);
+}
